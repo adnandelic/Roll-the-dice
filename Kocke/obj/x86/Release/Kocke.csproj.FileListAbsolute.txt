@@ -1,0 +1,7 @@
+C:\Users\208-Server\Desktop\Kocke\Kocke\bin\Release\Kocke.exe
+C:\Users\208-Server\Desktop\Kocke\Kocke\bin\Release\Kocke.pdb
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Release\Kocke.Form1.resources
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Release\Kocke.Properties.Resources.resources
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Release\Kocke.csproj.GenerateResource.Cache
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Release\Kocke.exe
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Release\Kocke.pdb

@@ -1,0 +1,24 @@
+C:\Users\Belma\AppData\Local\Temporary Projects\Kocke\bin\Debug\Kocke.exe
+C:\Users\Belma\AppData\Local\Temporary Projects\Kocke\bin\Debug\Kocke.pdb
+C:\Users\Belma\AppData\Local\Temporary Projects\Kocke\obj\x86\Debug\Kocke.Form1.resources
+C:\Users\Belma\AppData\Local\Temporary Projects\Kocke\obj\x86\Debug\Kocke.Properties.Resources.resources
+C:\Users\Belma\AppData\Local\Temporary Projects\Kocke\obj\x86\Debug\Kocke.csproj.GenerateResource.Cache
+C:\Users\Belma\AppData\Local\Temporary Projects\Kocke\obj\x86\Debug\Kocke.exe
+C:\Users\Belma\AppData\Local\Temporary Projects\Kocke\obj\x86\Debug\Kocke.pdb
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Debug\Kocke.exe
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Debug\Kocke.pdb
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Debug\Kocke.csprojResolveAssemblyReference.cache
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Debug\Kocke.Form1.resources
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Debug\Kocke.Properties.Resources.resources
+C:\Users\208-Server\Desktop\Kocke\Kocke\obj\x86\Debug\Kocke.csproj.GenerateResource.Cache
+C:\Users\208-Server\Desktop\Kocke\Kocke\bin\Debug\Kocke.exe
+C:\Users\208-Server\Desktop\Kocke\Kocke\bin\Debug\Kocke.pdb
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\bin\Debug\Kocke.exe
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\bin\Debug\Kocke.pdb
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\obj\x86\Debug\Kocke.Igrac.resources
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\obj\x86\Debug\Kocke.Properties.Resources.resources
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\obj\x86\Debug\Kocke.csproj.GenerateResource.Cache
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\obj\x86\Debug\Kocke.exe
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\obj\x86\Debug\Kocke.pdb
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\obj\x86\Debug\Kocke.Tabla.resources
+C:\Users\Belma\Documents\Visual Studio 2010\Projects\Kocke\Kocke\obj\x86\Debug\Kocke.csprojResolveAssemblyReference.cache
